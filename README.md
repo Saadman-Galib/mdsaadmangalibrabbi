@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadman-galib&label=Profile%20views&color=0e75b6&style=flat" alt="saadman-galib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadman-galib" alt="saadman-galib" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/galibsaadman" target="blank"><img src="https://img.shields.io/twitter/follow/galibsaadman?logo=twitter&style=for-the-badge" alt="galibsaadman" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadman-galib" alt="saadman-galib" /></a> </p>
 
 - 🔭 I’m currently working on **github**
 
