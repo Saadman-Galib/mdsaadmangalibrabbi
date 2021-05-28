@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **python, HTML, CSS**
+- 💬 Ask me about **python, HTML, CSS, Javascript, PHP**
 
 - 📫 How to reach me **saadmangalib@gmail.com**
 
