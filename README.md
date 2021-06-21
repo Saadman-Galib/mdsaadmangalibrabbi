@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **github**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **python, HTML, CSS, Javascript, PHP**
 
