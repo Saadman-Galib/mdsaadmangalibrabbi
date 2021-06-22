@@ -45,6 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadman-galib&show_icons=true&locale=en&layout=compact" alt="saadman-galib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadman-galib&show_icons=true&locale=en" alt="saadman-galib" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saadman-galib)  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadman-galib&" alt="saadman-galib" /></p>
 
