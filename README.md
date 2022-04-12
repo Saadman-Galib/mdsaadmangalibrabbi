@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Saadman Galib Rabbi</h1>
 <h3 align="center">A passionate frontend developer. Self learner 🌟 Dream to be a Full Stack Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadman-galib&label=Profile%20views&color=0e75b6&style=flat" alt="saadman-galib" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadman-galib&label=Profile%20views&color=0e75b6&style=flat" alt="saadman-galib" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/galibsaadman" target="blank"><img src="https://img.shields.io/twitter/follow/galibsaadman?logo=twitter&style=for-the-badge" alt="galibsaadman" /></a> </p>
 
