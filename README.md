@@ -34,7 +34,7 @@ I'm Saadman Galib, a 16 years old passionate programmer from Bangladesh.
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saadman-galib&theme=nord&show_icons=true" alt="Saadman Galib's github stats">
     <br><br>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saadman-galib&bg_color=040024&color=ffffff&line=0eddd9&point=1b0dde&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saadman-galib&bg_color=2d3440&color=ffffff&line=7390ac&point=87bfcf&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 </div>
 </details>
 
