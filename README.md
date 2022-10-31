@@ -5,11 +5,7 @@
 ## Hey! 👋
 
 I'm Saadman Galib, a 16 years old passionate programmer from Bangladesh.
-
 <br>
-
-<!-- <details> -->
-<!-- <summary>The Languages & Tools I mostly use</summary> -->
 
 ## The Languages & Tools I mostly use
 
@@ -23,9 +19,9 @@ I'm Saadman Galib, a 16 years old passionate programmer from Bangladesh.
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
-  <!-- <img src="https://intro.rustbridge.com/img/ferris.gif" width="300"> -->
+ 
 </p>
-<!-- </details> -->
+
 
 <details>
 
