@@ -23,7 +23,7 @@ I'm Saadman Galib,  a Front-end developer and competitive programmer from Bangla
 </p>
 
 
-<details>
+<!-- <details>
 
 <summary>⚡️ More about my coding life</summary>
 <br><br>
@@ -36,6 +36,6 @@ I'm Saadman Galib,  a Front-end developer and competitive programmer from Bangla
     <br><br>
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saadman-galib&bg_color=2d3440&color=ffffff&line=7390ac&point=87bfcf&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 </div>
-</details>
+</details> -->
 
 [![An image of @saadmangalib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
