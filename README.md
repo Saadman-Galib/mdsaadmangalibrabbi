@@ -38,4 +38,4 @@ I'm Saadman Galib,  a Front-end developer and competitive programmer from Bangla
 </div>
 </details> -->
 
-[![An image of @saadmangalib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
+<!-- [![An image of @saadmangalib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib) -->
