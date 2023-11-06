@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-I'm Saadman Galib,  a Front-end developer and competitive programmer from Bangladesh.
+I'm Saadman Galib,  a Front-end web developer and competitive programmer from Bangladesh.
 <br>
 
 ## The Languages & Tools I mostly use
