@@ -10,7 +10,7 @@ I'm Saadman Galib,  a Front-end web developer and competitive programmer from Ba
 ## The Languages & Tools I mostly use
 
 <br>
-  <img src="https://skillicons.dev/icons?i=html,CSS,git,py,github,js,react,tailwind,vite,vscode,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,py,github,js,react,tailwind,vite,vscode,vue" />
 <!-- <p align="center"> -->
 <!--   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
