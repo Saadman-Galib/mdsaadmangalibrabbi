@@ -39,4 +39,4 @@ I'm Saadman Galib,  a Front-end web developer and competitive programmer from Ba
 </div>
 </details> -->
 
-[![An image of @saadmangalib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
+[![Holopin Badges](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
