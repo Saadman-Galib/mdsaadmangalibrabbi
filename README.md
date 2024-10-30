@@ -2,11 +2,11 @@
   <img src="./name.svg" alt="Saadman Galib" />
 </h1>
 
-## Hey! 👋
+<!-- ## Hey! 👋 -->
 
-I'm Saadman Galib
+<!-- I'm Saadman Galib -->
 <!-- , a Front-end web developer and competitive programmer from Bangladesh. -->
-##### I know ChatGPT 
+<!-- ##### I know ChatGPT -->
 
 <br>
 
