@@ -64,7 +64,9 @@ Want to explore more of my universe? Check out [my full GitHub repository collec
 If you’re ready to talk about web development, brainstorm new ideas, or just share cool tech stories, let’s connect! I’m always up for a conversation or a collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadman_Galib-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadman-galib)
+
 [![X](https://img.shields.io/badge/Twitter-Saadman_Galib-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GalibSaadman)
+
 [![Email](https://img.shields.io/badge/Email-saadmangalib@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadmangalib@gmail.com)
 
 ---
