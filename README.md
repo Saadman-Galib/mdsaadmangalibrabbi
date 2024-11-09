@@ -44,20 +44,50 @@ A sleek calculator application built with Vue.js, featuring a modern design and 
 
 An interactive advice generator app that fetches random advice from an external API. Built with Vue.js and styled with modern CSS for a sleek user experience.
 
-- 🎲 **Features**: Random advice generation, API integration, responsive design, click-to-generate functionality  
+- 🎲 **Features**: Random advice generation, API integration, responsive design, click-to-generate functionality
 - 🛠️ **Tech Stack**: Vue.js
 
 Want to explore more of my universe? Check out [my full GitHub repository collection](https://github.com/saadman-galib?tab=repositories).
 
 ---
 
+### 🌟 Open Source Contributions
+
+Proud to be contributing to these amazing projects:
+
+#### 🌐 [rascui/Website](https://github.com/rascui/website)
+- 🧑‍💻 Fixed issue with the burger menu icon on desktop, preventing unnecessary space usage
+- 🔗 [Pull Request #64](https://github.com/rascui/website/pull/64)
+
+
+#### 🌐 [JS Projects](https://github.com/webhimelkop/jsprojects)
+
+- 📱 Made the website responsive for various screen sizes, including mobile
+- 🔗 [Pull Request #1](https://github.com/webhimelkop/jsprojects/pull/1)
+
+#### 📅 [Ramadan Calendar](https://github.com/mdmarufsarker/ramadan-calendar)
+
+- 🌙 Updated calendar with new moon timing information
+- 🖼️ Replaced README image to reflect updated content
+- 🔗 [Pull Request #2](https://github.com/mdmarufsarker/ramadan-calendar/pull/2)
+- 💻 Made the website responsive for better usability on various devices
+- 🔗 [Pull Request #1](https://github.com/mdmarufsarker/ramadan-calendar/pull/1)
+
+#### 📰 [Medium.com-redesign](https://github.com/RIR360/Medium.com-redesign)
+
+- 📝 Using raw HTML & CSS to redesign Medium website UI
+- 🔗 [Pull Request #29](https://github.com/RIR360/Medium.com-redesign/pull/29)
+
+#### 📱 [Facebook Post](https://github.com/RIR360/Facebook-Post)
+
+- 📝 Using raw HTML & CSS to redesign a facebook single post UI
+- 🔗 [Pull Request #39](https://github.com/RIR360/Facebook-Post/pull/39)
+
 ## 📊 Holopin Badges
 
 > Behold, a glimpse into my Holopin “galaxy” of achievements!
 
-
-[![Holopin Badges](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
----
+## [![Holopin Badges](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
 
 ## 🛸 Join My Journey!
 
