@@ -64,7 +64,6 @@ Proud to be contributing to these amazing projects:
 - ✨ Improved mobile responsiveness to ensure a user-friendly experience across devices.
 - 🔗 [Pull Request #98](https://github.com/planetarium/www.nine-chronicles.dev/pull/98)
 
-
 #### 🌐 [Moving Motivators](https://github.com/ngarbezza/moving-motivators)
 
 - ✨ Added Bengali (BN) translations to improve accessibility for Bengali-speaking users
@@ -149,7 +148,7 @@ Proud to be contributing to these amazing projects:
 
 ## 📊 Holopin Badges
 
-> Behold, a glimpse into my Holopin “galaxy” of achievements!
+> Behold, a glimpse into my Holopinverse!
 
 ## [![Holopin Badges](https://holopin.me/saadmangalib)](https://holopin.io/@saadmangalib)
 
