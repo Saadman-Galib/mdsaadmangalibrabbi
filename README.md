@@ -55,6 +55,22 @@ Want to explore more of my universe? Check out [my full GitHub repository collec
 
 Proud to be contributing to these amazing projects:
 
+#### 📱 [Nine Chronicles Dev](https://github.com/planetarium/www.nine-chronicles.dev)
+
+- ✨ Fixed text overflow issues on smaller screens, improving mobile responsiveness.
+- 🔗 [Pull Request #102](https://github.com/planetarium/www.nine-chronicles.dev/pull/102)
+- ✨ Added default Prettier configuration for consistent code formatting across the project.
+- 🔗 [Pull Request #100](https://github.com/planetarium/www.nine-chronicles.dev/pull/100)
+- ✨ Improved mobile responsiveness to ensure a user-friendly experience across devices.
+- 🔗 [Pull Request #98](https://github.com/planetarium/www.nine-chronicles.dev/pull/98)
+
+#### 🛠️ [DevBlog](https://github.com/DeepsEffect/DevBlog)
+
+- ✨ Reduced the number of blog posts displayed to three on the home page to improve desktop screen fit and user experience.
+- 🔗 [Pull Request #29](https://github.com/DeepsEffect/DevBlog/pull/29)
+- 🎨 Added custom scrollbar style to improve UI in `LeftSidebar` component
+- 🔗 [Pull Request #24](https://github.com/DeepsEffect/DevBlog/pull/24)
+
 #### 🛠️ [Devsnorte Landing Page](https://github.com/devsnorte/devsnorte-landing-page)
 
 - ✨ Adjusted the events section button alignment: Buttons are now centered on small screens and aligned to the start on medium and larger screens using updated media queries.
