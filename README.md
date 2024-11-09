@@ -55,10 +55,49 @@ Want to explore more of my universe? Check out [my full GitHub repository collec
 
 Proud to be contributing to these amazing projects:
 
+#### 🛠️ [Devsnorte Landing Page](https://github.com/devsnorte/devsnorte-landing-page)
+
+- ✨ Adjusted the events section button alignment: Buttons are now centered on small screens and aligned to the start on medium and larger screens using updated media queries.
+- 🔗 [Pull Request #98](https://github.com/devsnorte/devsnorte-landing-page/pull/98)
+- ✨ Modified gallery section: Removed the previous button from the first image and the next button from the last image for a more intuitive navigation experience.
+- 🔗 [Pull Request #96](https://github.com/devsnorte/devsnorte-landing-page/pull/96)
+
+#### 🛠️ [Digitomize](https://github.com/digitomize/digitomize)
+
+- 🐛 Fixed issue where users signing up with email and password did not have a photoUrl set, causing their profile images to not appear on the /dashboard routes.
+- ✨ Added photoUrl to Firebase after creating a user with email and password to match the behavior of Google-authenticated users.
+- 🔗 [Pull Request #918](https://github.com/digitomize/digitomize/pull/918)
+
+- ✨ Added auto-close functionality for the model upon saving to improve user experience
+- 🔄 Changed "Connect" to "Update" when a user already has an existing connection
+- 🔗 [Pull Request #913](https://github.com/digitomize/digitomize/pull/913)
+- ✨ Added custom 404 image for improved user experience
+- 🐛 Fixed data rendering issue in empty state scenarios
+- 🔗 [Pull Request #900](https://github.com/digitomize/digitomize/pull/900)
+
+#### 🚗 [U-Move Scan to Ride Service](https://github.com/Open-Source-Chandigarh/U-Move-Scan-to-Ride-Service)
+
+- 🖋️ Fixed copyright section items to be centered for better alignment
+- 🔗 [Pull Request #18](https://github.com/Open-Source-Chandigarh/U-Move-Scan-to-Ride-Service/pull/18)
+
 #### 🌐 [rascui/Website](https://github.com/rascui/website)
+
+- 🎨 Fixed animation issue for smoother cursor interaction
+- 🔗 [Pull Request #88](https://github.com/rascui/website/pull/88)
+- 🐛 Fixed navigation links on the Contributors page Navbar for better functionality
+- 🔗 [Pull Request #85](https://github.com/rascui/website/pull/85)
+- 📱 Fixed Contributors page navbar dropdown issue on mobile screens
+- 🔗 [Pull Request #79](https://github.com/rascui/website/pull/79)
+- 🧭 Fixed active state issue on the Contributors page navbar
+- 🔗 [Pull Request #76](https://github.com/rascui/website/pull/76)
+- 🛠️ Fixed Hero section cropping issue on mobile screens for proper display
+- 🔗 [Pull Request #74](https://github.com/rascui/website/pull/74)
+- 🔧 Fixed the team coordinators section display issue
+- 🔗 [Pull Request #68](https://github.com/rascui/website/pull/68)
+- 🛠️ Fixed loading time overflow issue on mobile screens for better user experience
+- 🔗 [Pull Request #66](https://github.com/rascui/website/pull/66)
 - 🧑‍💻 Fixed issue with the burger menu icon on desktop, preventing unnecessary space usage
 - 🔗 [Pull Request #64](https://github.com/rascui/website/pull/64)
-
 
 #### 🌐 [JS Projects](https://github.com/webhimelkop/jsprojects)
 
@@ -66,6 +105,11 @@ Proud to be contributing to these amazing projects:
 - 🔗 [Pull Request #1](https://github.com/webhimelkop/jsprojects/pull/1)
 
 #### 📅 [Ramadan Calendar](https://github.com/mdmarufsarker/ramadan-calendar)
+
+- ✨ Added **Ramadan Coming Soon** countdown to the website
+- 🔗 [Pull Request #4](https://github.com/mdmarufsarker/ramadan-calendar/pull/4)
+- 📅 Updated calendar for 2024
+- 🔗 [Pull Request #3](https://github.com/mdmarufsarker/ramadan-calendar/pull/3)
 
 - 🌙 Updated calendar with new moon timing information
 - 🖼️ Replaced README image to reflect updated content
