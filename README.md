@@ -65,7 +65,7 @@ If you’re ready to talk about web development, brainstorm new ideas, or just s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saadman_Galib-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadman-galib)
 
-[![X](https://img.shields.io/badge/Twitter-Saadman_Galib-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GalibSaadman)
+[![Twitter](https://img.shields.io/badge/Twitter-Saadman_Galib-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/GalibSaadman)
 
 [![Email](https://img.shields.io/badge/Email-saadmangalib@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadmangalib@gmail.com)
 
