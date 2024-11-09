@@ -67,7 +67,6 @@ Proud to be contributing to these amazing projects:
 - 🐛 Fixed issue where users signing up with email and password did not have a photoUrl set, causing their profile images to not appear on the /dashboard routes.
 - ✨ Added photoUrl to Firebase after creating a user with email and password to match the behavior of Google-authenticated users.
 - 🔗 [Pull Request #918](https://github.com/digitomize/digitomize/pull/918)
-
 - ✨ Added auto-close functionality for the model upon saving to improve user experience
 - 🔄 Changed "Connect" to "Update" when a user already has an existing connection
 - 🔗 [Pull Request #913](https://github.com/digitomize/digitomize/pull/913)
@@ -110,7 +109,6 @@ Proud to be contributing to these amazing projects:
 - 🔗 [Pull Request #4](https://github.com/mdmarufsarker/ramadan-calendar/pull/4)
 - 📅 Updated calendar for 2024
 - 🔗 [Pull Request #3](https://github.com/mdmarufsarker/ramadan-calendar/pull/3)
-
 - 🌙 Updated calendar with new moon timing information
 - 🖼️ Replaced README image to reflect updated content
 - 🔗 [Pull Request #2](https://github.com/mdmarufsarker/ramadan-calendar/pull/2)
