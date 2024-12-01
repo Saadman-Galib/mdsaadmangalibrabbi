@@ -55,6 +55,16 @@ Want to explore more of my universe? Check out [my full GitHub repository collec
 
 Proud to be contributing to these amazing projects:
 
+#### 🌐 [CS Resources](https://github.com/programming-for-career/cs-resources)
+
+- ✨ Added Prettier configuration to ensure consistent tab width across the project
+- 🔗 [Pull Request #10](https://github.com/programming-for-career/cs-resources/pull/10)
+- 🎨 Adjusted footer layout to improve responsiveness on desktop screens
+- 🐛 Fixed footer width issue to ensure consistency with the navbar
+- 🔗 [Pull Request #9](https://github.com/programming-for-career/cs-resources/pull/9)
+- ✨ Added dark mode support for the footer to ensure title colors sync with the theme mode
+- 🔗 [Pull Request #6](https://github.com/programming-for-career/cs-resources/pull/6)
+
 #### 📱 [Nine Chronicles Dev](https://github.com/planetarium/www.nine-chronicles.dev)
 
 - ✨ Fixed text overflow issues on smaller screens, improving mobile responsiveness.
