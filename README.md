@@ -37,7 +37,7 @@ Here’s a look at some of the most exciting projects I’ve launched into my Gi
 
 A sleek calculator application built with Vue.js, featuring a modern design and responsive interface.
 
-- ➕ **Features**: Basic arithmetic operations, keyboard support
+- ➕ **Features**: Basic arithmetic operations, multiple themes
 - 🛠️ **Tech Stack**: Vue.js
 
 #### 💭 [Advice Generator App](https://github.com/saadman-galib/Advice-generator-app)
